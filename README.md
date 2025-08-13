@@ -28,6 +28,6 @@ This project is a _Text-to-3D Model Generation_ tool built using _OpenAI's Shap-
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/text-to-3d-generator.git
+git clone https://github.com/Chetankumar-17/TextTo3DModel-main
 cd text-to-3d-generator
 ```
